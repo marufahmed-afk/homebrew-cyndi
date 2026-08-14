@@ -1,6 +1,6 @@
 cask "cyndi" do
-  version "0.3.1"
-  sha256 "a64ca76a6d1a87fd1e38003d92b38ad442f609f41261744019d88ea952bf1d51"
+  version "0.3.2"
+  sha256 "9ed3460da9aa0fde7bfdc9eb82b198f4c8865d143014a519eba1f416a66c9157"
 
   url "https://github.com/marufahmed-afk/homebrew-cyndi/releases/download/v#{version}/Cyndi.dmg"
   name "Cyndi"
